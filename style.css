@@ -1,0 +1,20 @@
+.intro{
+    height:300px;
+    padding:100px;
+}
+body{
+    color:white;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Lavishly Yours", cursive;
+    text-align:center;
+    background-image:url("./bg.jpg");
+}
+#mine{
+    height:200px;
+    width:200px;
+    border-radius:100px;
+}
+ol{
+   list-style-type:none; 
+}
